@@ -1,0 +1,24 @@
+paths:
+  data:
+    raw: 'data_tasks/raw'
+    interim: 'data_tasks/interim'
+    processed: 'data_tasks/processed'
+  reports:
+    logs: 'reports/logs'
+    charts: 'reports/charts'
+
+colors:
+  symbol: '#012169'
+  focus_red1: '#E31837'
+  focus_red2: '#D14159'
+  line_1: '#012169'
+  line_2: '#0053C2'
+  line_3: '#3375CE'
+  Line_4: '#80A8E0'
+  gold: '#F2A900'
+  seagreen: '#40C1AC'
+  bluegreen1: '#006980'
+  bluegreen2: '#338799'
+  bluegreen3: '#8084BF'
+  grey_dark: '#646464'
+  grey_Light: '#919191'
